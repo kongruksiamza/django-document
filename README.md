@@ -18,4 +18,4 @@
 - pip list (แสดงรายการ package ที่ติดตั้งในเครื่อง)
 - pip install (ติดตั้ง package)
 
-## 📣 คำสั่งพื้นฐาน Django Framework
+## 📯 คำสั่งพื้นฐาน Django Framework
