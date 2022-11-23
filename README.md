@@ -13,7 +13,9 @@
 - [Python](https://www.python.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## 📣 คำสั่งพื้นฐาน
+## 📣 คำสั่งพื้นฐาน Python
 - python --version (แสดงเวอร์ชั่นของภาษาไพธอน)
 - pip list (แสดงรายการ package ที่ติดตั้งในเครื่อง)
 - pip install (ติดตั้ง package)
+
+## 📣 คำสั่งพื้นฐาน Django Framework
